@@ -73,7 +73,8 @@ public class ToDoResourceTest {
 
 		// ToDo firstOne = (ToDo) (response.readEntity(List.class)).get(0);
 		// Assert.assertNotNull(firstOne);
+		fail("Forcing a test failure");
 
 	}
-
+}
 
